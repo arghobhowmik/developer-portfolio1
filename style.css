@@ -37,3 +37,16 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+.box-shadow{
+    padding: 30px;
+    margin-right: 2%;
+    margin-left: 2%;
+    border-radius: 15px;
+    width: 45%;
+    box-shadow: 15px 15px 30px black
+}
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
