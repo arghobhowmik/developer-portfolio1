@@ -8,7 +8,7 @@ h1{
 .orange{
     color: orange;
 }
-section{
+.fiexible-container{
     display: flex;
     margin-bottom: 120px;
 }
